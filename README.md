@@ -1,6 +1,6 @@
 # Telecom-Customer-Churn-Analysis
 
-# Introduction and Project Objective
+## Introduction and Project Objective
 Telecom companies are facing increasing competition in the market, and customer retention is critical to their success. The objective of this project is to analyze customer churn in a telecommunications company using various customer demographics and behavioral variables. The goal is to predict the likelihood of a customer leaving the company, or churning," based on their usage patterns and other characteristics.
  
 The analysis includes a dataset of 7,043 customers with 33 variables, including dependents, contracts, tenure months, partners, paperless billing, total charges, tech support, payment method, multiple lines, online security, streaming TV, internet service, streaming movies, online backup, senior citizens, phone service, gender, CLTV, monthly charges, and device protection.
